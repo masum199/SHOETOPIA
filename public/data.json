@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Product A",
+      "description": "This is product A.",
+      "price": 19.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "description": "Product B is a versatile tool.",
+      "price": 29.99,
+      "category": "Home & Garden"
+    },
+    {
+      "id": 3,
+      "name": "Book X",
+      "description": "A bestselling book on a thrilling adventure.",
+      "price": 12.99,
+      "category": "Books"
+    },
+    {
+      "id": 4,
+      "name": "Service Y",
+      "description": "Professional service for your needs.",
+      "price": 49.99,
+      "category": "Services"
+    }
+  ]
